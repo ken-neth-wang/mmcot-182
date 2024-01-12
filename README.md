@@ -7,3 +7,4 @@ Kevin Cai
 Sewon Sohn
 
 
+To see the project code, look to the notebook: **182 Final Project Notebook-STARTER.ipynb**
